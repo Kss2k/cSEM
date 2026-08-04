@@ -71,10 +71,10 @@ testOMF(a, .R = 30) # .R = 30 to speed up the example
 #> 
 #>                                      Critical value
 #>  Distance measure    Test statistic    95%   
-#>  dG                      0.0060      0.0166  
-#>  SRMR                    0.0158      0.0256  
-#>  dL                      0.0112      0.0295  
-#>  dML                     0.0320      0.0875  
+#>  dG                      0.0060      0.0158  
+#>  SRMR                    0.0158      0.0245  
+#>  dL                      0.0112      0.0270  
+#>  dML                     0.0320      0.0828  
 #>  
 #> 
 #> Decision: 
@@ -91,6 +91,6 @@ testOMF(a, .R = 30) # .R = 30 to speed up the example
 #>  Out of 30 bootstrap replications 30 are admissible.
 #>  See ?verify() for what constitutes an inadmissible result.
 #> 
-#>  The seed used was: 930621145
+#>  The seed used was: -1752861417
 #> ________________________________________________________________________________
 ```
